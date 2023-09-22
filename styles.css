@@ -1,0 +1,14 @@
+.main-container {
+	background-color: aqua;
+}
+.form-container {
+	width: 600px;
+	height: 900px;
+	background-color: azure;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+.heading1 {
+	text-align: center;
+}
